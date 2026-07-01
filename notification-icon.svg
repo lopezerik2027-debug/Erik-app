@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <defs>
+    <linearGradient id="iconGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Bell -->
+  <path d="M 50 20 Q 60 20 65 30 Q 70 25 75 25 L 75 35 Q 70 40 65 40 L 65 55 Q 65 70 50 75 Q 35 70 35 55 L 35 40 Q 30 40 25 35 L 25 25 Q 30 25 35 30 Q 40 20 50 20" fill="none" stroke="url(#iconGrad4)" stroke-width="2"/>
+  <!-- Dot (notification) -->
+  <circle cx="60" cy="15" r="5" fill="url(#iconGrad4)"/>
+</svg>
